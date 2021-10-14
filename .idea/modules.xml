@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AplicationWatch.iml" filepath="$PROJECT_DIR$/.idea/modules/AplicationWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/AplicationWatch.mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/AplicationWatch.mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wear/AplicationWatch.wear.iml" filepath="$PROJECT_DIR$/.idea/modules/wear/AplicationWatch.wear.iml" />
+    </modules>
+  </component>
+</project>
